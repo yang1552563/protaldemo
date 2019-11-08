@@ -1,0 +1,142 @@
+body{
+    margin: 0px;
+}
+div{
+    /*border: red 1px solid;*/
+}
+a{
+    text-decoration: none;
+}
+
+#zc0{
+    height: 380px;
+    width: 700px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("../imges/zc1.png")no-repeat;
+    background-size: 100% 100%;
+}
+
+#zc1{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+.zc1-1{
+    height: 40px;
+    width: 40px;
+    font-size: 45%;
+    color: white;
+    opacity: 0.9;
+}
+.zc1-1 img{
+    height: 50%;
+    width: 50%;
+}
+#zc1-2{
+    position: absolute;
+    top: 0px;
+    left: 40px;
+}
+#zc1-3{
+    position: absolute;
+    top: 0px;
+    right: 40px;
+}
+#zc1-4{
+    position: absolute;
+    top: 40px;
+    left: 0px;
+}#zc1-5{
+     position: absolute;
+     bottom: 40px;
+     left: 0px;
+ }
+#zc1-6{
+    position: absolute;
+    bottom: 0px;
+    left: 40px;
+}
+#zc1-7{
+    position: absolute;
+    bottom: 0px;
+    right: 40px;
+}
+#zc1-8{
+    position: absolute;
+    bottom: 40px;
+    right: 0px;
+}
+#zc1-9{
+    position: absolute;
+    top: 40px;
+    right: 0px;
+}
+#zc2{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    border-radius: 60px;
+    background-color: black;
+    opacity: 0.3;
+    border: beige 2px solid;
+
+}
+#zc2-1{
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    top: 3px;
+    left: 8px;
+    border-bottom: 1px solid white ;
+}
+#zc2-2{
+    height: 60px;
+    width: 110px;
+    position: absolute;
+    top: 40px;
+    left: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}#zc2-3{
+     height:20px;
+     width: 90px;
+     position: absolute;
+     border-top: white 1px solid;
+     top: 100px;
+     left: 15px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ .zc2-2-1{
+     height: 50px;
+     width: 50px;
+     border-radius: 25px;
+     font-size: 40%;
+     color: white;
+ }
+ .zc2-2-1 img{
+     height: 50%;
+     width: 50%;
+ }
+#zc2-1{
+    color: #E5D6B2;
+    font-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#zc2-3 a{
+
+    font-size: 50%;
+    color:white;
+}

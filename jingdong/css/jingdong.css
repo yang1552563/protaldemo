@@ -1,0 +1,19 @@
+/*通用样式*/
+body{
+    background-color: blueviolet;
+    margin: 0px;
+}
+div{
+    border: red 1px solid;
+}
+a{
+    text-decoration: none;
+    font-family: "Arial Black";
+}
+#da2 {
+    background-color: gainsboro;
+
+}
+.class-a{
+
+}

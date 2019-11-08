@@ -1,0 +1,95 @@
+/*通用*/
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+div{
+    /*border: 1px red solid;*/
+}
+#jd1{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    position: relative;
+}
+#jd1 img{
+    height: 100%;
+    width:100%;
+}
+#jdw{
+    height:25px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 50px;
+    bottom: 20px;
+    justify-content: space-around;
+}
+.jd-2{
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    background-color: black;
+    opacity: 0.4;
+
+}
+#jd3{
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    left: -21px;
+}
+#jd3-3
+{
+    height: 14px;
+    width: 18px;
+    background-color: red;
+    border-radius: 7px;
+    font-size: 3px;
+    color: white;
+}
+#jd-3{
+    height: 16px;
+    width: 16px;
+border-radius: 8px;
+    background-color: white;
+}
+#jd-4{
+    margin:3.3px 0px 0px 3px;
+
+}
+#jd5{
+    width: 40px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    float: left;
+}
+#jd4{
+    width: 20px;
+    height: 30px;
+    background-color: white;
+}
+#jd6{
+    height: 30px;
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    right: -21px;
+}
+#jd7{
+    width: 40px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    float:right;
+}
+#jd8{
+    width: 20px;
+    height: 30px;
+    background-color: white;
+    float:right;
+}

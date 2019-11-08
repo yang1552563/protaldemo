@@ -1,0 +1,166 @@
+#phb0{
+    width: 400px;
+    /*border: red 1px solid;*/
+    margin: auto;
+}
+div{
+    /*border: red 1px solid;*/
+}
+#phb1{
+    width: 100%;
+    height: 20px;
+    /*background-color: darkorange;*/
+}
+#phb1-1{
+    font-size: 11px;
+    float: left;
+    margin-top: 6px;
+}
+#phb1-2{
+    font-size: 5px;
+    float: left;
+    color: #333;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+
+#phb1-3{
+    font-size: 5px;
+    float: right;
+    color: #333;
+    margin-top: 10px;
+}
+#phb1-4{
+    color: #C20C0C;
+}
+#phb2{
+    width: 100%;
+    height: 3px;
+    background-color: #C20C0C;
+}
+#phb3{
+    height: 100px;
+    width: 400px;
+    /*background-color: lawngreen;*/
+}
+#phb4{
+    /*border: black 1px solid;*/
+    width:100%;
+    height: 15px;
+
+}
+#phb4-1{
+    background-color: #f7f7f7;
+    height: 10px;
+    width: 400px;
+}
+#phb4-1 th{
+    border-bottom:#F0F0F0 1px solid;
+    border-right:#F0F0F0 1px solid;
+    font-size: 8px;
+    color: #666;
+    font-weight: normal;
+    text-align: left;
+    padding: 0px 10px 0px 10px;
+}
+#phb4-1-2{
+    width: 10%;
+}
+#phb4-1-3{
+    width: 50%;
+}
+#phb4-1-4{
+    width: 10%;
+}
+#phb4-1-5{
+    width: 20%;
+}
+#phb5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#phb5 span{
+    font-size: 5px;
+    margin-top: 6px;
+}
+#pb{
+    background-color: #f7f7f7;
+
+}
+#ph6{
+    height: 20px;
+}
+#phb7{
+    height:20px;
+    width: 130px;
+
+}
+#phb7-1{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+#phb7-1 img{
+    width: 100%;
+    height: 100%;
+}
+#phb7-2{
+    width: 10px;
+    height: 10px;
+    float: left;
+    margin: 5px 0px 5px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#phb7-2 img{
+    width: 100%;
+    height: 100%;
+}
+#phb7-3{
+    width: 20px;
+    height: 10px;
+    float: left;
+    margin: 5px 0px 5px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#phb7-3 a{
+    text-decoration: none;
+    font-size: 5px;
+    color: #000;
+}
+#phb7-4{
+    width: 15px;
+    height: 10px;
+    float: left;
+    margin: 5px 0px 5px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#phb7-4 img{
+    width: 100%;
+    height: 100%;
+}
+#phb8{
+    font-size: 5px;
+   text-align: center;
+}
+#phb9{
+    font-size: 5px;
+    text-align: center;
+
+}
+#phb10{
+    height: 20px;
+     background-color: white;
+}
+#phb11{
+    height: 20px;
+    background-color: #f7f7f7 ;
+}

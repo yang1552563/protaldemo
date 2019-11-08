@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#qqq{
+    font-size: 30px;
+    text-align: center;
+
+}
+#qqb0{
+    border: purple 2px solid;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: auto;
+}
+#qqb1{
+    border-top:transparent 250px solid;
+    border-left: darkorange 250px solid;
+    border-right: transparent 250px solid;
+    border-bottom: lawngreen 250px solid;
+    width: 0px;
+    position: absolute;
+}
+#qqb2{
+    border-top:yellow 125px solid;
+    border-left: transparent 125px solid;
+    border-right: transparent 125px solid;
+    border-bottom: transparent 125px solid;
+    width: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#qqb3{
+    border-top:transparent 125px solid;
+    border-left: transparent 125px solid;
+    border-right: transparent 125px solid;
+    border-bottom: yellow 125px solid;
+    width: 0px;
+    position: absolute;
+    top: -125px;
+    left: 125px;
+}
+#qqb4{
+    border-top:blue 125px solid;
+    border-left: transparent 125px solid;
+    border-right: transparent 125px solid;
+    border-bottom: transparent 125px solid;
+    width: 0px;
+    position: absolute;
+    top: 125px;
+    left: 125px;
+}
+#qqb5{
+    border-top:transparent 125px solid;
+    border-left: transparent 125px solid;
+    border-right: pink 125px solid;
+    border-bottom: transparent 125px solid;
+    width: 0px;
+    position: absolute;
+    top: 125px;
+    left: 125px;
+}
+#qqb6{
+    border-top:transparent 125px solid;
+    border-left: pink 125px solid;
+    border-right: transparent 125px solid;
+    border-bottom: transparent 125px solid;
+    width: 0px;
+    position: absolute;
+    top: 125px;
+    left: 375px;
+}
+#qqb7{
+    border-top:deepskyblue 125px solid;
+    border-left: transparent 125px solid;
+    border-right: transparent 125px solid;
+    border-bottom: transparent 125px solid;
+    width: 0px;
+    position: absolute;
+    top: 0px;
+    left: 250px;
+}
+#qqb8{
+    border-top:transparent 125px solid;
+    border-left: transparent 125px solid;
+    border-right: deepskyblue 125px solid;
+    border-bottom: transparent 125px solid;
+    width: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#qqb9{
+    border-top:transparent 125px solid;
+    border-left: transparent 125px solid;
+    border-right: coral 125px solid;
+    border-bottom: transparent 125px solid;
+    width: 0px;
+    position: absolute;
+    top: 250px;
+    right: 0px;
+}

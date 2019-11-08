@@ -1,0 +1,125 @@
+
+/*通用样式*/
+body{
+    background-color:whitesmoke;
+    margin:0;
+}
+div{
+    border: red 2px solid;
+}
+a{
+    text-decoration: none
+}
+#con-f,#con-s,#con-t{
+    float: left;
+}
+#con-fo{
+    float:right
+}
+#wf{
+    background-color: white;
+    height:60px;
+}
+/*第一部分logo*/
+#con-f{
+    margin: 10px 0px 0px 150px;
+
+}
+/*第二部分*/
+#con-s{
+    margin-left: 30px;
+
+}
+#home{
+    color: black;
+    border-bottom: dodgerblue 2px solid;
+    height: 60px;
+    width:40px;
+}
+.cons-a{
+    color: darkgray;
+    height: 60px;
+    width: 70px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float:left;
+    text-align: center;
+}
+/*第三部分，搜索框*/
+#con-t{
+    margin-lef:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+}
+#con-t input{
+    height: 35px;
+    width: 290px;
+    border: 1px #EBEBEB solid;
+    border-radius:5px;
+    padding-left:10px;
+    float: left;
+    margin-right:30px;
+    outline: none;
+    background-color:whitesmoke;
+}
+#con-t a{
+    background-color: deepskyblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 55px;
+    border-radius:5px;
+    color:white;
+    float: left;
+}
+/*第四部分*/
+#con-fo {
+    margin-right: 200px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#con-fo div{
+    height: 25px;
+    width: 25px;
+    /*background-color: #A7AFC1;*/
+    float: left;
+    margin-right: 30px;
+}
+#con-fo img{
+    height: 100%;
+    width: 100%;
+}
+#con-fo-d{
+    position: relative;
+}
+#con-fo-y{
+    height: 16px !important;
+    width: 16px !important;
+    background-color: red;
+    border-radius: 8px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: -2px;
+    right: -31px;
+}
+#con-fo-z{
+    height: 17px !important;
+    width: 17px !important;
+    background-color:white;
+    border-radius: 10px;
+    color: white;
+    position: absolute;
+    top: -3px;
+    right: -31px;
+}

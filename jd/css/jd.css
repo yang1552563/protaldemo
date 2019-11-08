@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+div{
+    /*border: red 1px solid;*/
+}
+#jd0{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#jd1{
+    height: 30px;
+    width: 400px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: red 2px solid;
+    position: relative;
+}
+#jd1-1{
+    height: 25px;
+    width: 380px;
+    border: white 0px ;
+}
+#jd1-2{
+    height: 25px;
+    width: 30px;
+    float: left;
+    position: absolute;
+    right: 8px;
+}
+#jd1-2 img{
+    height: 100%;
+    width: 100%;
+}
+#jd2{
+    height: 34px;
+    width: 50px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:red;
+}
+#jd2-1{
+    height:20px;
+    width:20px;
+}
+#jd2 img{
+    height: 100%;
+    width: 100%;
+}
+#jd3{
+    height: 30px;
+    width: 150px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:20px;
+    border: #EEEEEE 1px solid;
+    position: relative;
+}
+#jd3-1{
+    height: 20px;
+    width: 20px;
+    float: left;
+}
+#jd3-1 img{
+    height: 100%;
+    width: 100%;
+}
+#jd3-2{
+    height: 20px;
+    width: 80px;
+    float: left;
+    margin-left: 20px;
+
+}
+
+#jd3-3
+{
+    height: 8px;
+    width: 10px;
+    background-color: red;
+    border-radius: 4px;
+    font-size: 3px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 3px;
+    left: 30px;
+}
+
+#jd3-2-1{
+    font-size: 14px;
+    color: red;
+}
+#jd4{
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 320px;
+
+}
+.jd4-1{
+    font-size: 13px;
+    color:#999999 ;
+}
