@@ -1,0 +1,112 @@
+body{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+div{
+    /*border: red 1px solid;*/
+}
+#dl0{
+    width: 100%;
+    height: 1000px;
+}
+#dl1{
+    width: 35%;
+    height: 30px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 3px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#dl1 a{
+    font-size: 12px;
+    color: #222;
+}
+#dl0 h2{
+    margin: 70px 0 0 10%;
+    font-size: 18px;
+    color: #222;
+    font-weight: 500;
+    float: left;
+}
+#dl2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 50px;
+    border-bottom: 2px solid #DDDDDD;
+    margin-left: 10%;
+    margin-top: 35px;
+    float: left;
+}
+#dl2 input{
+    width: 100%;
+    height: 38px;
+    border: none;
+    font-size: 15px;
+    margin-top: 10px;
+}
+#dl3{
+    margin-top: 8px;
+    height: 50px;
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    float: left;
+}
+#dl3 input{
+    width: 10%;
+    height: 45px;
+    border:none ;
+    border-bottom: 2px solid #DDDDDD ;
+    float: left;
+}
+#dl3 a{
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    font-size: 15px;
+    color: #CCCCCC;
+    height: 38px;
+    width: 35%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+#dl4{
+    height: 45px;
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 30px;
+    background-color: #FFCC00;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #222;
+}
+#dl5{
+    height: 20px;
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#dl5 a{
+    color: #222;
+}
+

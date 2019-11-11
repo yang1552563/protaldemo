@@ -15,55 +15,63 @@
     <session id="-128489421">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="5" />
-          <entry key="html" value="3" />
+          <entry key="css" value="11" />
+          <entry key="html" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="5" />
-          <entry key="HTML" value="3" />
+          <entry key="CSS" value="11" />
+          <entry key="HTML" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1562" />
-          <entry key="html" value="455" />
+          <entry key="css" value="5175" />
+          <entry key="html" value="2003" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1562" />
-          <entry key="HTML" value="455" />
+          <entry key="CSS" value="5175" />
+          <entry key="HTML" value="2003" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snyg/sy.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snyg/sy/sy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+            <state relative-caret-position="105">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="110" />
+              <folding>
+                <element signature="n#style#0;n#div#6;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snyg/css/sy.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snyg/sy/css/sy.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="107" column="1" lean-forward="true" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+            <state relative-caret-position="126">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -89,6 +97,11 @@
         <option value="$PROJECT_DIR$/HTML/jd/css/jd.css" />
         <option value="$PROJECT_DIR$/snyg/sy.html" />
         <option value="$PROJECT_DIR$/snyg/css/sy.css" />
+        <option value="$PROJECT_DIR$/dl/dl.html" />
+        <option value="$PROJECT_DIR$/dl/css/dl.css" />
+        <option value="$PROJECT_DIR$/snyg/fl/fl.html" />
+        <option value="$PROJECT_DIR$/snyg/fl/css/fl.css" />
+        <option value="$PROJECT_DIR$/snyg/sy/css/sy.css" />
       </list>
     </option>
   </component>
@@ -98,10 +111,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="786" />
-    <option name="y" value="13" />
-    <option name="width" value="1013" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="532" />
+    <option name="y" value="21" />
+    <option name="width" value="1005" />
     <option name="height" value="1008" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -110,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,13 +140,19 @@
               <item name="protaldemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="protaldemo" type="462c0819:PsiDirectoryNode" />
               <item name="snyg" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="sy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="protaldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="protaldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="snyg" type="462c0819:PsiDirectoryNode" />
+              <item name="sy" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,17 +161,20 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstorm\protaldemo\snyg\fl\images" />
       <recent name="D:\webstorm\protaldemo\snyg\images" />
       <recent name="D:\webstorm\protaldemo\snyg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstorm\protaldemo\snyg" />
+      <recent name="D:\webstorm\protaldemo\snyg\sy" />
       <recent name="D:\webstorm\protaldemo\snyg\images" />
       <recent name="D:\webstorm\protaldemo\HTML\jd\images" />
       <recent name="D:\webstorm\protaldemo\HTML" />
-      <recent name="D:\webstorm\protaldemo\wdkt\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,17 +202,20 @@
       <workItem from="1573198264804" duration="821000" />
       <workItem from="1573200819298" duration="3367000" />
       <workItem from="1573265733831" duration="20972000" />
+      <workItem from="1573302017881" duration="177000" />
+      <workItem from="1573356736974" duration="20661000" />
+      <workItem from="1573430681460" duration="22386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25160000" />
+    <option name="totallyTimeSpent" value="68384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="524" y="9" width="675" height="672" extended-state="1" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.256651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1302621" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,17 +264,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snyg/sy.html">
+    <entry file="file://$PROJECT_DIR$/HTML/lunbotu/css/lunbotu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        <state relative-caret-position="-227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/lunbotu/lunbotu.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snyg/dl/css/dl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snyg/css/sy.css">
+    <entry file="file://$PROJECT_DIR$/snyg/dl/dl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="107" column="1" lean-forward="true" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="110" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snyg/fl/css/fl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="120" column="21" lean-forward="true" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snyg/fl/fl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snyg/sy/css/sy.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snyg/sy/sy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="110" />
+          <folding>
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

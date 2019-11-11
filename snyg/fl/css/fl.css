@@ -1,0 +1,134 @@
+body{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+div{
+    /*border: red 1px solid;*/
+}
+#fl0{
+    width: 100%;
+    height: 750px;
+}
+#fl1{
+    width: 100%;
+    height: 50px;
+    background-color: #F8F8F8;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+#fl1-1{
+    width: 6%;
+    height: 20px;
+    position: absolute;
+    left: 4%;
+}
+#fl1-1 img{
+    width: 100%;
+    height: 100%;
+}
+#fl1-2{
+    width: 3%;
+    height: 12px;
+    position: absolute;
+    left: 17%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fl1-2 img{
+    width: 100%;
+    height: 100%;
+}
+#fl1-3{
+    width: 85%;
+    height: 36px;
+    position: absolute;
+    left: 13%;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fl1-3 input{
+    width: 100%;
+    height: 28px;
+    padding-left: 9%;
+    font-size: 13px;
+    border: 1px solid #E4E4E4;
+    border-radius: 5px;
+}
+#fl2{
+    width: 25%;
+    height: 750px;
+    float: left;
+}
+#fl2-1{
+    height: 100%;
+    width: 100%;
+    padding-left: 0;
+    margin: 0;
+    background-color: #F4F4F4;
+
+}
+#fl2-1 li{
+    width: 100%;
+    height: 48px;
+    font-size: 13px;
+    list-style: none;
+    border: 0.5px #E9E9E9 solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fl3{
+    width: 73%;
+    height: 750px;
+    float: left;
+}
+#fl3-1 {
+    width: 100%;
+    height: 150px;
+    float: left;
+    border-bottom: 0.8px solid #F2F2F2;
+    position: relative;
+}
+#fl3-1 p{
+    width: 25%;
+    background-color: white;
+    font-size: 12px;
+    position: absolute;
+    bottom: -6.5px;
+    margin: 0px;
+    margin-left: 1px;
+    padding-left: 8px;
+}
+#fl3-1-1{
+    width: 90%;
+    height: 100px;
+    margin: 10px 0 0 5%;
+}
+#fl3-1-1 img{
+    width: 100%;
+    height: 100%;
+}
+#fl3-2{
+    width: 100%;
+    height: 570px;
+    float: left;
+    margin-top: 40px;
+}
+.fl3-2-2{
+    width: 20%;
+    height: 60px;
+    float: left;
+    font-size: 12px;
+    margin: 0px 0px 30px 30px;
+    text-align: center;
+}
+.fl3-2-2 img{
+    width: 100%;
+    height: 100%;
+}
