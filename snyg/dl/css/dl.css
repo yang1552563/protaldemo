@@ -49,6 +49,7 @@ div{
     border: none;
     font-size: 15px;
     margin-top: 10px;
+    outline: none;
 }
 #dl3{
     margin-top: 8px;
@@ -66,6 +67,7 @@ div{
     border:none ;
     border-bottom: 2px solid #DDDDDD ;
     float: left;
+    outline: none;
 }
 #dl3 a{
     border: 1px solid #DDDDDD;
